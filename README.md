@@ -24,10 +24,6 @@ Welcome to my GitHub profile!
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,docker,vscode&perline=6" />
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Viransh29&show_icons=true&theme=tokyonight)
-
 ## 📫 Contact
 
 - Email: your-email@example.com
