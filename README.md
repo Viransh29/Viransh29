@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Viransh Thakore
 
-<!--
-**Viransh29/Viransh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack MERN Developer | DevOps Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 💻 MERN Stack Developer
+- 🌱 Learning DevOps
+- 🚀 Building Full Stack Projects
+- 🎯 Open to internships and learning opportunities
+
+---
+
+## 📫 Contact
+
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
