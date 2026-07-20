@@ -26,5 +26,5 @@ Welcome to my GitHub profile!
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
+- Email: viranshthakore29@gmail.com
+- LinkedIn: https://www.linkedin.com/in/viranshthakore
